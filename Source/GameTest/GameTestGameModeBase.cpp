@@ -2,4 +2,9 @@
 
 
 #include "GameTestGameModeBase.h"
+#include "PlayerCharacter.h"
 
+AGameTestGameModeBase::AGameTestGameModeBase()
+{
+	DefaultPawnClass = APlayerCharacter::StaticClass();
+}

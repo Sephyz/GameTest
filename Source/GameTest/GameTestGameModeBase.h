@@ -14,4 +14,7 @@ class GAMETEST_API AGameTestGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	AGameTestGameModeBase();
+
 };
