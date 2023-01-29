@@ -43,9 +43,6 @@ protected:
 	class USpringArmComponent* m_CameraBoom;
 
 	UPROPERTY(BlueprintReadOnly, Category = "Components")
-	bool m_IsAttacking = false;
-
-	UPROPERTY(BlueprintReadOnly, Category = "Components")
 	float m_AttackCooldown = 0.0f;
 
 	UPROPERTY(BlueprintReadOnly, Category = "Components")
