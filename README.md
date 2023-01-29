@@ -1,5 +1,7 @@
 # GameTest
 
+![Project Demo](demo/demo.gif)
+
 I've never used Unreal Engine beforehand, so this is my attempt at seeing how far I could go in one day while looking up tutorials on how to use this engine.
 I wish I could have done more before showing this, but I ran out of time and wasted way too much time doing stuff unrelated to coding (e.g. trying to make animations work).
 
